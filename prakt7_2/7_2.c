@@ -29,4 +29,5 @@ void main()
 	default:
 		printf("Ошибка.\nВыберите одну из представленных операций");
 	}
+	system("pause");
 }

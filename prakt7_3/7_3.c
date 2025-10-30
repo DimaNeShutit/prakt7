@@ -54,4 +54,5 @@ void main()
 	default:
 		puts("Ошибка");
 	}
+	system("pause");
 }
